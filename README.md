@@ -18,8 +18,7 @@ horizontal ou diagonal, um dos jogadores sera declarado campeao.
 - Se não houver uma combinacao de 3 elementos iguais, o jogo informa que
 nao houve um vencedor e e encerrado.
 
-Application written in C # Windows Console that simulates the Tic Tac
-Toe, its functions are:
+Application written in C # Windows Console that simulates the Jogo da Velha, its functions are:
 
 - Calls for Player 1 name
 - Calls for Player 2 name
