@@ -1,0 +1,6 @@
+C:\VisualStudio\MM_JogoVelha\bin\Debug\MM_JogoVelha.exe.config
+C:\VisualStudio\MM_JogoVelha\bin\Debug\MM_JogoVelha.exe
+C:\VisualStudio\MM_JogoVelha\bin\Debug\MM_JogoVelha.pdb
+C:\VisualStudio\MM_JogoVelha\obj\Debug\MM_JogoVelha.exe
+C:\VisualStudio\MM_JogoVelha\obj\Debug\MM_JogoVelha.pdb
+C:\VisualStudio\MM_JogoVelha\obj\Debug\MM_JogoVelha.csprojResolveAssemblyReference.cache
